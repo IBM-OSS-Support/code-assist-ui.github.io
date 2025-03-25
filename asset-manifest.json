@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/code-assist-ui.github.io/static/css/main.b78b4a6f.css",
-    "main.js": "/code-assist-ui.github.io/static/js/main.b07154cd.js",
+    "main.css": "/code-assist-ui.github.io/static/css/main.788e354f.css",
+    "main.js": "/code-assist-ui.github.io/static/js/main.0435b7ef.js",
     "static/media/new_black-bg.jpeg": "/code-assist-ui.github.io/static/media/new_black-bg.3e2d5a0ba655fa977ddf.jpeg",
     "static/media/IBMPlexSerif-SemiBoldItalic-Cyrillic.woff2": "/code-assist-ui.github.io/static/media/IBMPlexSerif-SemiBoldItalic-Cyrillic.2861a6629748147a32ea.woff2",
     "static/media/IBMPlexSerif-SemiBoldItalic-Latin1.woff2": "/code-assist-ui.github.io/static/media/IBMPlexSerif-SemiBoldItalic-Latin1.6305238484fd3cc045b0.woff2",
@@ -97,11 +97,11 @@
     "static/media/Silver2-icon.svg": "/code-assist-ui.github.io/static/media/Silver2-icon.4566e402871c67926d03.svg",
     "static/media/Gold1-icon.svg": "/code-assist-ui.github.io/static/media/Gold1-icon.139989d2447a3ca02d13.svg",
     "index.html": "/code-assist-ui.github.io/index.html",
-    "main.b78b4a6f.css.map": "/code-assist-ui.github.io/static/css/main.b78b4a6f.css.map",
-    "main.b07154cd.js.map": "/code-assist-ui.github.io/static/js/main.b07154cd.js.map"
+    "main.788e354f.css.map": "/code-assist-ui.github.io/static/css/main.788e354f.css.map",
+    "main.0435b7ef.js.map": "/code-assist-ui.github.io/static/js/main.0435b7ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.b78b4a6f.css",
-    "static/js/main.b07154cd.js"
+    "static/css/main.788e354f.css",
+    "static/js/main.0435b7ef.js"
   ]
 }
